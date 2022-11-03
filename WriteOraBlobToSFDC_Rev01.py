@@ -5,7 +5,7 @@ import requests
 import cx_Oracle 
 import psycopg2
 from configparser import ConfigParser
-
+ 
 sys.setrecursionlimit(3000)
 os.putenv("NLS_LANG", "KOREAN_KOREA.KO16KSC5601") 
 
